@@ -1,5 +1,5 @@
 # Hi, I'm Drew 👋
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 💫 About Me:
 🔭 I'm currently working as a Data Engineer for Sigma<br>🚀 I'm looking to collaborate in any Hackathon project, and RIOT development third apps<br>💻 Love Python, Milkshakes and Hamburguers<br>🏎️ [LinceHacks](https://www.youtube.com/watch?v=Dth5Ww4ZH-A) Lead Organizer
